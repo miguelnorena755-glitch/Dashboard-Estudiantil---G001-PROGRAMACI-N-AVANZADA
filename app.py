@@ -12,6 +12,7 @@ st.set_page_config(page_title="Dashboard Estudiantil", layout="wide")
 
 st.title("Dashboard Estudiantil - G001 PROGRAMACIÓN AVANZADA")
 st.subheader("Hecho por: ALEX DANIEL, MIGUEL ANGEL, JHOAN SEBASTIÁN, JULIAN, FRAY DURNEY")
+st.subheader("https://docs.google.com/spreadsheets/d/1x2-9xFM30Nfg9aX0gcsGp8pOgQsoRqmcAjY474oP6JU/edit?gid=0#gid=0")
 st.subheader("Datos de estudiantes")
 
 # =====================
